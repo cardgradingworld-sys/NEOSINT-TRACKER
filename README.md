@@ -70,9 +70,7 @@
 
 ## 📸 Screenshot
 
-![Dashboard](https://via.placeholder.com/800x400/0a0a0a/00ff88?text=NeoSINT+Tracker+Dashboard)
-*Tampilan Dashboard NeoSINT Tracker*
-
+![Dashboard](https://github.com/user-attachments/assets/d1fc4036-d89f-47ad-89f5-d28e4bad7905)
 ---
 
 ## 💻 Cara Penggunaan
